@@ -25,9 +25,9 @@ A simple and classic 2048 game implemented using HTML, CSS, and JavaScript. This
 
 ## Screenshots
 
-![Initial](images/Starting.png)
-![Game](images/game.png)
-![Game Over](images/Gameover.png)
+![Initial](2048_Game/images/Starting.png)
+![Game](2048_Game/images/game.png)
+![Game Over](2048_Game/images/Gameover.png)
 
 ## Troubleshooting
 
